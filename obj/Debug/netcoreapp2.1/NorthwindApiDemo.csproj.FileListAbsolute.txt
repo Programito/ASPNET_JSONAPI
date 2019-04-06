@@ -1,0 +1,14 @@
+C:\Users\Algo\source\repos\NorthwindApiDemo\NorthwindApiDemo\bin\Debug\netcoreapp2.1\NorthwindApiDemo.deps.json
+C:\Users\Algo\source\repos\NorthwindApiDemo\NorthwindApiDemo\bin\Debug\netcoreapp2.1\NorthwindApiDemo.runtimeconfig.json
+C:\Users\Algo\source\repos\NorthwindApiDemo\NorthwindApiDemo\bin\Debug\netcoreapp2.1\NorthwindApiDemo.runtimeconfig.dev.json
+C:\Users\Algo\source\repos\NorthwindApiDemo\NorthwindApiDemo\bin\Debug\netcoreapp2.1\NorthwindApiDemo.dll
+C:\Users\Algo\source\repos\NorthwindApiDemo\NorthwindApiDemo\bin\Debug\netcoreapp2.1\NorthwindApiDemo.pdb
+C:\Users\Algo\source\repos\NorthwindApiDemo\NorthwindApiDemo\obj\Debug\netcoreapp2.1\NorthwindApiDemo.csprojAssemblyReference.cache
+C:\Users\Algo\source\repos\NorthwindApiDemo\NorthwindApiDemo\obj\Debug\netcoreapp2.1\NorthwindApiDemo.csproj.CoreCompileInputs.cache
+C:\Users\Algo\source\repos\NorthwindApiDemo\NorthwindApiDemo\obj\Debug\netcoreapp2.1\NorthwindApiDemo.RazorAssemblyInfo.cache
+C:\Users\Algo\source\repos\NorthwindApiDemo\NorthwindApiDemo\obj\Debug\netcoreapp2.1\NorthwindApiDemo.RazorAssemblyInfo.cs
+C:\Users\Algo\source\repos\NorthwindApiDemo\NorthwindApiDemo\obj\Debug\netcoreapp2.1\NorthwindApiDemo.AssemblyInfoInputs.cache
+C:\Users\Algo\source\repos\NorthwindApiDemo\NorthwindApiDemo\obj\Debug\netcoreapp2.1\NorthwindApiDemo.AssemblyInfo.cs
+C:\Users\Algo\source\repos\NorthwindApiDemo\NorthwindApiDemo\obj\Debug\netcoreapp2.1\NorthwindApiDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Algo\source\repos\NorthwindApiDemo\NorthwindApiDemo\obj\Debug\netcoreapp2.1\NorthwindApiDemo.dll
+C:\Users\Algo\source\repos\NorthwindApiDemo\NorthwindApiDemo\obj\Debug\netcoreapp2.1\NorthwindApiDemo.pdb
